@@ -48,5 +48,12 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 <!-- https://github.com/Churanta/React-Bar-Graph/blob/main/Video/Recording%202023-09-07%20215352.mp4
 https://github.com/Churanta/React-Bar-Graph/blob/main/Video/Recording%202023-09-07%20215602.mp4 -->
 
-[Watch Video Demo](https://github.com/Churanta/React-Bar-Graph/blob/main/Video/Recording%202023-09-07%20215352.mp4)
-[Watch Video Demo](https://github.com/Churanta/React-Bar-Graph/blob/main/Video/Recording%202023-09-07%20215602.mp4)
+
+
+https://github.com/Churanta/React-Bar-Graph/assets/83538805/78610186-4ead-4001-8ac0-5ab0efe576d9
+
+
+
+https://github.com/Churanta/React-Bar-Graph/assets/83538805/313f3b44-a281-408d-a585-61ac997d541f
+
+
